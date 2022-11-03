@@ -1,0 +1,7 @@
+body {
+    background-image: url(./assets/cyno-silence.png);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    padding-top: 100px;
+}
